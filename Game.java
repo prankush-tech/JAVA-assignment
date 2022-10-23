@@ -1,11 +1,11 @@
 import java.util.Scanner;
 //this is the player class for assignment
 public class Game {
-    private Scanner input;
-    private Player player;
-    private Randomizer Randomizer;
-    private boolean running;
-    private String command;
+     Scanner input;
+     Player player;
+     Randomizer Randomizer;
+     boolean running;
+     String command;
 
     Game() {
         this.player = new Player();
