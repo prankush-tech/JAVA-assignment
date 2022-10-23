@@ -1,0 +1,15 @@
+OUT PUT:
+Choose your options : EXIT or PLAY
+PLAY
+Guess the number: 34
+Answer is lower
+Hint: Closer to: 5
+Guess the number: 5
+Answer is higher
+Guess the number: 6
+Answer is higher
+Guess the number: 7
+***Congratulations you won the game***
+Choose your options : EXIT or PLAY
+EXIT
+PS E:\java assignment> 
