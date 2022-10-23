@@ -1,4 +1,7 @@
 import java.util.Random;
+//randosmizer class to generate random number 
+//number are also in a limited range
+// limations allows user to set difficulty
 
 class Randomizer {
     int secretNumber;

@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//this is the player class
 public class Player 
 {
     int chances =5;

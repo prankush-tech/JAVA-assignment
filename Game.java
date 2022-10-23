@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//this is the player class for assignment
 public class Game {
     private Scanner input;
     private Player player;
